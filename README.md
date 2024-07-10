@@ -3,7 +3,7 @@
 # Descripción del Proyecto
 En este emocionante desafío de programación, hemos construido un Conversor de Monedas que realiza solicitudes a una API de tasas de cambio, manipula datos JSON y filtra las monedas de interés para mostrar sus tasas de cambio actuales. Este proyecto está diseñado para ofrecer una experiencia educativa práctica y emocionante en el desarrollo Java.
 
-##Características Principales
+## Características Principales
 Consumo de APIs:
 
 Realiza solicitudes HTTP a una API de tasas de cambio para obtener datos actualizados.
