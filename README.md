@@ -1,6 +1,6 @@
 # <h1 align="center"> CurrencyConverter-ChallengeAluraBackEnd </h1>
 
-#Descripción del Proyecto
+# Descripción del Proyecto
 En este emocionante desafío de programación, hemos construido un Conversor de Monedas que realiza solicitudes a una API de tasas de cambio, manipula datos JSON y filtra las monedas de interés para mostrar sus tasas de cambio actuales. Este proyecto está diseñado para ofrecer una experiencia educativa práctica y emocionante en el desarrollo Java.
 
 ##Características Principales
